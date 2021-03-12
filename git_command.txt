@@ -2,5 +2,14 @@ git init- Initialize git respository
 ls- to list all file and directory
 git add "filename"- To add a particular file
 git add .- To add file from directory
+git commit- to commit file
 git commit -m "message"- to commit file with message
 git status- gives name of the branch and anything that need to be committed
+git branch- to view all the branch
+git branch "branch name"- to create a new barnch without checking out
+git checkout "branch name"- to switch to a particular branch
+git merge "branch name"- to merge a branch with master branch
+git branch -d "branch name"- to delete a branch
+git checkout -b "branch name"- to create a branch with checkout
+git remote add origin "ssh key/http key"- to add remote repository
+git clone "ssh key/http key"- to clone remote respository content

@@ -1,0 +1,6 @@
+git init- Initialize git respository
+ls- to list all file and directory
+git add "filename"- To add a particular file
+git add .- To add file from directory
+git commit -m "message"- to commit file with message
+git status- gives name of the branch and anything that need to be committed
